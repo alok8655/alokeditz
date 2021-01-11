@@ -1,0 +1,28 @@
+
+
+*{
+	margin: 100;
+	padding: 100;
+	background-color: ;
+}
+ .centerdiv{
+
+ }
+ a{
+ 	
+ 	background-color: #f5f6fa;
+ 	border-radius: 100px;
+ 	margin: 50px;
+	line-height: 500px;
+
+	box-shadow: 2px 5px 3px 3px #dcdde1;
+
+ }
+
+
+ a i {
+ 	transition: all 0.3s linear;
+ }
+ a:hover i {
+ 	transform: scale(1.4);
+ }

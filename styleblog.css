@@ -1,0 +1,42 @@
+body{
+	margin: 0;
+	padding: 0;
+	background: url(firstpic.jpg) no-repeat;
+	background-size: cover;	
+}
+
+.box{
+	width: 400px;
+	background: rgba(0,0,0,0.4);
+	padding: 20px;
+	text-align: center;
+	margin: auto;
+	margin-top: 3%;
+	color: white;
+	font-family: 'century Gothic',sans-serif;
+
+}
+
+.box-img{
+	border-radius: 70%;
+	width:150px;
+	height: 170px;
+}
+
+.box h1{
+	font-size: 40px;
+	letter-spacing: 4px;
+	font-weight: 100;
+
+}
+
+.box h5{
+	font-size: 20px;
+	font: bold;
+	letter-spacing: 3px;
+	font-weight: 100;
+
+}
+.box p{
+	text-align: justify;
+}
